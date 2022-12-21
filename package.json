@@ -1,6 +1,6 @@
 {
   "name": "christmas-feggm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": true,
   "main": "./dist/christmas-feggm.umd.cjs",
   "module": "./dist/christmas-feggm.js",

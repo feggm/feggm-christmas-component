@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/feggm/feggm-christmas-component/compare/v1.0.2...v1.0.3) (2022-12-21)
+
+
+### Bug Fixes
+
+* small adjustments for mobile ([eb66a05](https://github.com/feggm/feggm-christmas-component/commit/eb66a05b556c2c83a28860eddf20d374132079e2))
+
 ## [1.0.2](https://github.com/feggm/feggm-christmas-component/compare/v1.0.1...v1.0.2) (2022-12-21)
 
 
