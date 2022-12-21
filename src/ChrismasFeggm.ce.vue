@@ -32,7 +32,7 @@ import backgroundImg from "./assets/background.jpg";
           <strong>Seßmarstaße 45</strong> eingeladen. Wir freuen uns darauf, Dir
           dort zu begegnen.
         </div>
-        <ul class="mt-8 space-y-2 ml-[18%]">
+        <ul class="mt-3 md:mt-8 space-y-2 ml-[10%] md:ml-[18%]">
           <li class="lg:-indent-14 lg:pl-14">
             <strong>24.12. 16:00 Uhr</strong>, Heiligabendgottesdienst
           </li>
