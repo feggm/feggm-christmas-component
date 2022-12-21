@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/feggm/feggm-christmas-component/compare/v1.0.0...v1.0.1) (2022-12-21)
+
+
+### Bug Fixes
+
+* externalize vue ([bcf0acc](https://github.com/feggm/feggm-christmas-component/commit/bcf0acc295e54c31b78b9e93741d05bbd80b41cc))
+
 ## 1.0.0 (2022-12-21)
 
 
