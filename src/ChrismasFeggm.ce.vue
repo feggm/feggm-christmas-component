@@ -4,7 +4,7 @@ import backgroundImg from "./assets/background.jpg";
 
 <template>
   <div
-    class="christmas-feggm mx-auto relative max-sm:max-w-xs sm:max-w-screen-sm"
+    class="christmas-feggm mx-auto relative max-lg:max-w-xs lg:max-w-screen-sm"
   >
     <img :src="backgroundImg" />
     <div class="absolute left-0 right-0 top-0 bottom-0 overflow-clip">
@@ -14,8 +14,8 @@ import backgroundImg from "./assets/background.jpg";
       <div
         class="float-right h-full w-[35%] [shape-outside:var(--right-shape)]"
       ></div>
-      <div class="mt-2 max-sm:[hyphens:auto] sm:mt-16 sm:text-xl sm:leading-10">
-        <div class="max-sm:hidden sm:space-y-4">
+      <div class="mt-2 [hyphens:auto] lg:mt-16 lg:text-xl lg:leading-10">
+        <div class="max-lg:hidden lg:space-y-4">
           <p class="ml-[35%]">
             Hallo,<br />schön dass Du auf unserer Homepage vorbeischaust. Unsere
             Gottesdienste um Weihnachten und Neujahr findest Du hier unten. Sie
@@ -26,20 +26,20 @@ import backgroundImg from "./assets/background.jpg";
             begegnen.
           </p>
         </div>
-        <div class="sm:hidden">
+        <div class="lg:hidden">
           Du bist herzlich zu unseren Gottesdiensten um Weihnachten und Neujahr
           in unserem Gemeindezentrum in der
           <strong>Seßmarstaße 45</strong> eingeladen. Wir freuen uns darauf, Dir
           dort zu begegnen.
         </div>
         <ul class="mt-8 space-y-2 ml-[18%]">
-          <li class="sm:-indent-14 sm:pl-14">
+          <li class="lg:-indent-14 lg:pl-14">
             <strong>24.12. 16:00 Uhr</strong>, Heiligabendgottesdienst
           </li>
-          <li class="sm:-indent-14 sm:pl-14">
+          <li class="lg:-indent-14 lg:pl-14">
             <strong>25.12. 10:30 Uhr</strong>, Weihnachtsgottesdienst
           </li>
-          <li class="sm:pt-8 sm:-indent-14 sm:pl-14">
+          <li class="lg:pt-8 lg:-indent-14 lg:pl-14">
             <strong>01.01. 18:00 Uhr</strong>, Neujahrsgottesdienst mit
             Abendmahl
           </li>
