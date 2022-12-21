@@ -11,6 +11,14 @@ export default defineConfig({
       name: "ChrismasFeggm",
       fileName: "christmas-feggm",
     },
+    rollupOptions: {
+      external: ["vue"],
+      output: {
+        globals: {
+          vue: "Vue",
+        },
+      },
+    },
   },
   plugins: [vue()],
   resolve: {
