@@ -2,6 +2,14 @@
   "name": "christmas-feggm",
   "version": "0.0.0",
   "private": true,
+  "main": "./dist/christmas-feggm.umd.cjs",
+  "module": "./dist/christmas-feggm.js",
+  "exports": {
+    ".": {
+      "import": "./dist/christmas-feggm.js",
+      "require": "./dist/christmas-feggm.umd.cjs"
+    }
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",

@@ -1,6 +1,6 @@
-import { createApp } from "vue";
-import App from "./App.vue";
+import { defineCustomElement } from "vue";
+import ChrismasFeggm from "./ChrismasFeggm.ce.vue";
 
-import "./assets/main.css";
+const ChrismasFeggmCustomElement = defineCustomElement(ChrismasFeggm);
 
-createApp(App).mount("#app");
+customElements.define("christmas-feggm", ChrismasFeggmCustomElement);
