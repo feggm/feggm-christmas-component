@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/feggm/feggm-christmas-component/compare/v1.0.1...v1.0.2) (2022-12-21)
+
+
+### Bug Fixes
+
+* change media query to `lg` ([708f890](https://github.com/feggm/feggm-christmas-component/commit/708f890b740774845ac09b28686d0d018b7df508))
+
 ## [1.0.1](https://github.com/feggm/feggm-christmas-component/compare/v1.0.0...v1.0.1) (2022-12-21)
 
 
